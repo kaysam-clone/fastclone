@@ -98,6 +98,19 @@ logo2 = """
 
 
 """
+print("""
+ +=========================================+
+        |........   Fast Facebook clone   ........|
+        +-----------------------------------------+
+        |            #Author: Kaysammie           | 
+        |	       Version 1.0                |
+| https://www.youtube.com/channel/UCz5pc0t3AW8a1mPOx8wpjZg   |
+        +=========================================+
+        |..........  Fast Facebook clone .........|
+        +-----------------------------------------+
+
+
+""")
 CorrectUsername = "kay"
 CorrectPassword = "Sam"
 
@@ -327,4 +340,3 @@ def action():
           
 if __name__ == '__main__':
     login()
-
